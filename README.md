@@ -1,4 +1,4 @@
-[<img src="https://drive.google.com/file/d/1GVZh7g14f_LNO5T16x6YR9HKSps-4rgf/view?usp=drive_link">](),
+![name](https://github.com/codeShinobi-sarthak/codeShinobi-sarthak/blob/main/banner.png)
 
 # 💫 About Me:
 - 👋 Hi, I’m @codeShinobi-sarthak
