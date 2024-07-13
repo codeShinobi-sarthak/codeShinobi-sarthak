@@ -1,4 +1,4 @@
-
+<img src='[relative path]' alt=""></img>
 # 💫 About Me:
 - 👋 Hi, I’m @codeShinobi-sarthak
 - 👀 I’m interested in ... development and collaberation
