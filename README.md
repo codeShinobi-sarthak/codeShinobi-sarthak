@@ -1,4 +1,5 @@
-<img src='[relative path]' alt=""></img>
+[<img src="https://drive.google.com/file/d/1GVZh7g14f_LNO5T16x6YR9HKSps-4rgf/view?usp=drive_link">](),
+
 # 💫 About Me:
 - 👋 Hi, I’m @codeShinobi-sarthak
 - 👀 I’m interested in ... development and collaberation
