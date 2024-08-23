@@ -1,10 +1,13 @@
+[![](https://visitcount.itsvg.in/api?id=codeShinobi-sarthak&icon=2&color=4)](https://visitcount.itsvg.in)
+---
 ![name](https://github.com/codeShinobi-sarthak/codeShinobi-sarthak/blob/main/banner.png)
+
 
 # 💫 About Me:
 
 > Hi there! I'm **Sarthak Jain**, a passionate programmer and technology enthusiast from India. I am currently a student and aspire to become a proficient software developer.
 
-### 🧑‍💻 What I'm Working On
+## 🧑‍💻 What I'm Working On
 
 I am actively involved in various programming projects, including:
 - **LeetCode Problems:** Sharpening my problem-solving skills with hashing, closures, and dynamic programming etc.
@@ -12,7 +15,7 @@ I am actively involved in various programming projects, including:
 - **Chrome Extensions:** Developing tools that help with productivity.
 - **Blogging**
 
-### 👀 Interests
+## 👀 Interests
 - 👋 Hi, I’m @codeShinobi-sarthak
 - 👀 I’m interested in ... development and collaberation
 - 🌱 I’m currently learning ... data structures and Algorithms
@@ -20,8 +23,9 @@ I am actively involved in various programming projects, including:
 - 📫 Feel free to reach out! Linkdin 👇
 - 😄 Pronouns: He
 - ⚡ Fun fact: "The world's first computer programmer was Ada Lovelace in the 1840s."
+  
 
-Feel free to check out my projects and contribute if you find anything interesting! I'm always open to feedback and collaborations.
+>Feel free to check out my projects and contribute if you find anything interesting! I'm always open to feedback and collaborations.
 
 
 ## 🌐 Socials:
@@ -40,8 +44,7 @@ Feel free to check out my projects and contribute if you find anything interesti
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=codeShinobi-sarthak&icon=2&color=4)](https://visitcount.itsvg.in)
+
 
 <!---
 codeShinobi-sarthak/codeShinobi-sarthak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
