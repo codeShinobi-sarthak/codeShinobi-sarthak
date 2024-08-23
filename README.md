@@ -1,6 +1,18 @@
 ![name](https://github.com/codeShinobi-sarthak/codeShinobi-sarthak/blob/main/banner.png)
 
 # 💫 About Me:
+
+> Hi there! I'm **Sarthak Jain**, a passionate programmer and technology enthusiast from India. I am currently a student and aspire to become a proficient software developer.
+
+### 🧑‍💻 What I'm Working On
+
+I am actively involved in various programming projects, including:
+- **LeetCode Problems:** Sharpening my problem-solving skills with hashing, closures, and dynamic programming etc.
+- **Web Development:** Building and refining web applications with React, Next.js, and Tailwind CSS.
+- **Chrome Extensions:** Developing tools that help with productivity.
+- **Blogging**
+
+### 👀 Interests
 - 👋 Hi, I’m @codeShinobi-sarthak
 - 👀 I’m interested in ... development and collaberation
 - 🌱 I’m currently learning ... data structures and Algorithms
@@ -9,6 +21,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: "The world's first computer programmer was Ada Lovelace in the 1840s."
 
+Feel free to check out my projects and contribute if you find anything interesting! I'm always open to feedback and collaborations.
 
 
 ## 🌐 Socials:
