@@ -1,4 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=codeShinobi-sarthak&icon=2&color=4)](https://visitcount.itsvg.in)
+
+# Checkout my Recent spline project:  [Animated Blob](https://my.spline.design/practice-1e821111d0558927f47fbb824c7bfdb3/ )
+
 ---
 <p align="center">
   <img src="https://github.com/codeShinobi-sarthak/codeShinobi-sarthak/blob/main/banner.png" alt="name" style="width: 100%;"/>
